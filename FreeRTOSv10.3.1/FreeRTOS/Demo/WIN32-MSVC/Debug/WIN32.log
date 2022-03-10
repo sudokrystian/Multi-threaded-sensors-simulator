@@ -1,0 +1,6 @@
+﻿  AppController.c
+E:\ESW Exam v3\ESW Exam assignment\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\AppController.c(63,1): warning C4204: nonstandard extension used: non-constant aggregate initializer
+E:\ESW Exam v3\ESW Exam assignment\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\AppController.c(64,1): warning C4204: nonstandard extension used: non-constant aggregate initializer
+E:\ESW Exam v3\ESW Exam assignment\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\AppController.c(65,1): warning C4204: nonstandard extension used: non-constant aggregate initializer
+E:\ESW Exam v3\ESW Exam assignment\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\AppController.c(66,1): warning C4204: nonstandard extension used: non-constant aggregate initializer
+  WIN32.vcxproj -> E:\ESW Exam v3\ESW Exam assignment\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\.\Debug\RTOSDemo.exe
